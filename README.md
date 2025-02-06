@@ -1,4 +1,4 @@
-# UTS-UMNClicker
+# ASTRO CLICKER
 
 FITUR
 - Auto-Clicker
